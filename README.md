@@ -1,12 +1,13 @@
 # Sobre o projeto
 
-A ideia do aplicativo é um simples consumo da biblioteca/api do DiceBear [link](https://www.dicebear.com/)
+A ideia do aplicativo é um simples consumo da biblioteca/api do DiceBear [Documentação](https://www.dicebear.com/)
 
 # Protótipo
 
 Segue o exemplo do protótipo do projeto
 
 [Imagem do protótipo](https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg)
+<img src="https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg" alt="Imagem de referência" />
 
 # Como rodar o projeto
 
