@@ -20,4 +20,4 @@ Após baixar as dependências do projeto, rodar o comando
   npx expo start
 ```
 
-Agora é só baixar o aplicativo do Expo Go no seu celular e testar [link](https://expo.dev/go)
+Agora é só baixar o aplicativo do Expo Go no seu celular e testar [@Expo](https://expo.dev/go)
