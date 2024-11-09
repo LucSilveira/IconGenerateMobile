@@ -7,7 +7,8 @@ A ideia do aplicativo é um simples consumo da biblioteca/api do DiceBear [Docum
 Segue o exemplo do protótipo do projeto
 
 [Imagem do protótipo](https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg)
-<img src="https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg" alt="Imagem de referência" />
+
+<img width="50%" src="https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg" alt="Imagem de referência" />
 
 # Como rodar o projeto
 
