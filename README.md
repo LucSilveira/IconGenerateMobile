@@ -6,7 +6,7 @@ A ideia do aplicativo é um simples consumo da biblioteca/api do DiceBear [link]
 
 Segue o exemplo do protótipo do projeto
 
-[https://github.com/LucSilveira/IconGenerateMobile/](https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg)
+[Imagem do protótipo](https://github.com/LucSilveira/IconGenerateMobile/blob/master/assets/references.jpg)
 
 # Como rodar o projeto
 
